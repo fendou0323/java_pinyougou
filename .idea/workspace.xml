@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e352446d-6356-4744-b000-472fe7927bcd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/parent/pinyougou-web-shop/src/main/java/cn/itcast/core/controller/BController.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/parent/pinyougou-web-shop/src/main/java/cn/itcast/core/controller/BController.java" afterPath="$PROJECT_DIR$/parent/pinyougou-web-shop/src/main/java/cn/itcast/core/controller/BController.java" />
     </list>
     <ignored path="$PROJECT_DIR$/parent/pinyougou-pojo/target/" />
     <ignored path="$PROJECT_DIR$/parent/pinyougou-web-portal/target/" />
@@ -68,8 +68,8 @@
       <file leaf-file-name="BController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parent/pinyougou-web-shop/src/main/java/cn/itcast/core/controller/BController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="240">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -178,6 +178,7 @@
         <option value="$PROJECT_DIR$/parent/pinyougou-web-manager/src/main/webapp/js/service/uploadService.js" />
         <option value="$PROJECT_DIR$/parent/pinyougou-web-manager/src/main/webapp/js/controller/brandController.js" />
         <option value="$PROJECT_DIR$/parent/pinyougou-web-manager/src/main/webapp/admin/brand.html" />
+        <option value="$PROJECT_DIR$/parent/pinyougou-web-shop/src/main/java/cn/itcast/core/controller/BController.java" />
       </list>
     </option>
   </component>
@@ -1107,7 +1108,7 @@
       <workItem from="1546406720331" duration="176000" />
       <workItem from="1546407640625" duration="4226000" />
       <workItem from="1546500338512" duration="75000" />
-      <workItem from="1546668543298" duration="3686000" />
+      <workItem from="1546668543298" duration="4348000" />
     </task>
     <task id="LOCAL-00001" summary="商家品牌，规格，分类，模板申请">
       <created>1546167239767</created>
@@ -1186,11 +1187,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546671718181</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="添加bcontroller">
+      <created>1546672616440</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1546672616440</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50984000" />
+    <option name="totallyTimeSpent" value="51646000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1286,7 +1294,8 @@
     <MESSAGE value="Excel提交后补提1次" />
     <MESSAGE value="添加service-user服务器" />
     <MESSAGE value="添加web-user服务器" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加web-user服务器" />
+    <MESSAGE value="添加bcontroller" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加bcontroller" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1657,8 +1666,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/parent/pinyougou-web-shop/src/main/java/cn/itcast/core/controller/BController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="240">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
