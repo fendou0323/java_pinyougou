@@ -1107,7 +1107,7 @@
       <workItem from="1546407640625" duration="4226000" />
       <workItem from="1546500338512" duration="75000" />
       <workItem from="1546668543298" duration="2857000" />
-      <workItem from="1546671969277" duration="910000" />
+      <workItem from="1546671969277" duration="918000" />
     </task>
     <task id="LOCAL-00001" summary="商家品牌，规格，分类，模板申请">
       <created>1546167239767</created>
@@ -1186,11 +1186,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546672662160</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge branch 'master' of https://github.com/fendou0323/java_pinyougou&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1546672888015</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1546672888015</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51065000" />
+    <option name="totallyTimeSpent" value="51073000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
